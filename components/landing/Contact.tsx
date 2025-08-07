@@ -26,9 +26,9 @@ const ContactSection = () => {
   const communityMembers = [
     {
       id: 'kaleab-denbel',
-      name: 'Kaleab Denbel,
+      name: 'Kaleab Denbel',
       role: 'Lead Developer',
-      email: 'Kaleabdenbel1921@gmail.com,
+      email: 'Kaleabdenbel1921@gmail.com',
       phone: '+251988815914',
       telegram: 'alexchen_dev',
       expertise: 'Full-stack development, DevOps'
@@ -54,8 +54,8 @@ const ContactSection = () => {
     {
       id: 'kiya',
       name: 'Kiya',
-      role: 'Backend Developer,
-      email: 'Kiya@gmail.com,
+      role: 'Backend Developer',
+      email: 'Kiya@gmail.com',
       phone: '+1234567893',
       telegram: 'jordan_pm',
       expertise: 'Product strategy, User research'
